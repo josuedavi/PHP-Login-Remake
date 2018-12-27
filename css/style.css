@@ -1,0 +1,34 @@
+a#register
+{
+	margin-left: 25px;
+	font-size: 20px;
+}
+a#login
+{
+	font-size: 20px;
+	margin-left: 25px;
+}
+
+div#register-form{
+	margin-left: 450px;
+	margin-top: 50px;
+}
+#register-form
+{
+margin-right: 100px;
+margin-left: 50px;
+}
+
+#login-form
+{
+	margin-top: 50px;
+
+}
+div#login-form
+{
+	margin-left: 450px;
+}
+#form
+{
+	margin-top: 150px;
+}
